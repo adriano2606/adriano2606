@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-Vindo!+:%29;Hello,+Welcome!+:%29;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1B5E7B&random=false&width=435&lines=Hi+there!%F0%9F%91%8B;Bem-vindo!%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ### Hi there! 👋
 
@@ -14,7 +14,7 @@
 </div>
 
   ##
-<div align="center"> 
+<div align="left"> 
   <h3 align="left">Git Stats</h3>
   <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriano2606&layout=compact&hide_border=true&title_color=D41b22&text_color=ffffff&bg_color=0d1117" />
 </div>
