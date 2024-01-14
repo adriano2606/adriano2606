@@ -11,8 +11,3 @@
   <img align="center" alt="adriano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-  ##
-<div align="left"> 
-  <h3 align="left">Git Stats</h3>
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriano2606&layout=compact&hide_border=true&title_color=D41b22&text_color=ffffff&bg_color=0d1117" />
-</div>
