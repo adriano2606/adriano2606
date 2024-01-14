@@ -8,8 +8,11 @@
 - 📫 How to reach me: Just send me a message on Linkedin or send me an email adrianodecamargo123@gmail.com
 - ✔ My developer hard skills are:
 <div style="display: inline_block"><br>
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriano2606&layout=compact&hide_border=true&title_color=D41b22&text_color=ffffff&bg_color=0d1117" />
+</div>
+<div style="display: inline_block"><br>
   <img align="center" padding-left="100px;" alt="adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="adriano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="adriano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriano2606&layout=compact&hide_border=true&title_color=D41b22&text_color=ffffff&bg_color=0d1117" />
 </div>
+
