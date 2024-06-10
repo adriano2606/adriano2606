@@ -4,4 +4,4 @@
 - 🌱 I’m currently studying System Analysis and Development (SAD) at [FIAP](https://www.fiap.com.br/online/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)...
 - 📫 How to reach me: Just send me a message on Linkedin or send me an email adrianodecamargo123@gmail.com
 - ✔ My developer hard skills are:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,git,bootstrap,jquery,nodejs,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,git,bootstrap,jquery,nodejs,py,ts,vscode)](https://skillicons.dev)
