@@ -4,11 +4,4 @@
 - 🌱 I’m currently studying System Analysis and Development (SAD) at [FIAP](https://www.fiap.com.br/online/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)...
 - 📫 How to reach me: Just send me a message on Linkedin or send me an email adrianodecamargo123@gmail.com
 - ✔ My developer hard skills are:
-<div style="display: inline_block"><br>
-  <img align="center" padding-left="100px;" alt="adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="adriano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="adriano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="adriano-CSS" height="30" width="40" src="  https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-
-</div>
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,git,bootstrap,jquery,nodejs,py)](https://skillicons.dev)
