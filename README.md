@@ -6,4 +6,4 @@
   
 - ✔ My developer hard skills are:
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,react,git,bootstrap,nodejs,java,py,ts,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git,nodejs,java,py,vscode)](https://skillicons.dev)
